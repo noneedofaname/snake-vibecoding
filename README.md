@@ -1,6 +1,6 @@
 # 🐍 贪吃蛇 × MyGO!!!!! & Ave Mujica
 
-基于 Python WebSocket 的双人对战 / 人机对战贪吃蛇游戏，融入 BanG Dream! It's MyGO!!!!! 和 Ave Mujica 角色元素。
+基于 Python WebSocket 的单机挑战 / 人机对战贪吃蛇游戏，融入 BanG Dream! It's MyGO!!!!! 和 Ave Mujica 角色元素。
 
 ## 🎮 游戏模式
 
